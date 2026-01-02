@@ -1,5 +1,6 @@
 # SubtitleVisor
 this is from the video
+https://youtu.be/dacxmLN4koM
 
 items used:
 
